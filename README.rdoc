@@ -1,4 +1,4 @@
-== siwei.me
+== 周永建的博客
 
 This is source code for siwei.me, based on Refinery CMS. (http://refinerycms.com/)
 
