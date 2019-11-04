@@ -2,7 +2,7 @@ source 'https://gems.ruby-china.com'
 
 
 gem 'thin', '1.6.1'
-gem 'rails', '3.2.7'
+gem 'rails', '3.2.17'
 gem 'mysql2', '0.3.18'
 gem 'json', '1.7.4'
 
